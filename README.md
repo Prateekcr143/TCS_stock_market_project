@@ -228,5 +228,5 @@ By uniting technical accuracy with visual storytelling, the project exemplifies 
 
 # Author
 
-Developed by: [Prateek Kudari]
+Developed by: [Prateek Kudari]  <br>
 Role: Data Science & Business Analytics Developer
